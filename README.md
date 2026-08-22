@@ -1,16 +1,50 @@
-## Hi there 👋
+<pre>
+📁 Local Disk (C:)
+└📁 gabrielguevarra
+⠀└📁 Training
+⠀⠀└⠀✅ freeCodeCamp
+⠀⠀└⠀✅ Codedex
+⠀└📁 Certifications
+⠀⠀└⠀🔗 <a href="[https://www.freecodecamp.org/certification/gabrielguevarra/responsive-web-design-v9](https://www.freecodecamp.org/certification/gabrielguevarra/responsive-web-design-v9)">Responsive Web Design</a>
+⠀⠀└⠀🔗 <a href="[https://www.freecodecamp.org/certification/gabrielguevarra/javascript-v9](https://www.freecodecamp.org/certification/gabrielguevarra/javascript-v9)">JavaScript</a>
+⠀└📁 Projects
+⠀⠀└⚠️ This folder is empty (to follow hehe)
 
-<!--
-**gabrielguevarra/gabrielguevarra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📁 Local Disk (D:)
+└📁 Status
+⠀└📁 Currently_Learning
+⠀⠀└⠀✅ React.js
+⠀⠀└⠀✅ Python
+└📁 Dev_Skills
+⠀└📁 Centering_A_Div
+⠀⠀└⚠️ This folder is empty
+⠀└📁 Remembering_Syntax
+⠀⠀└⚠️ This folder is empty
+└📁Program Files (x86)
+⠀└📁steam
+⠀⠀└📁steamapps
+⠀⠀⠀└📁common
+⠀⠀⠀⠀└📁Counter-Strike 2
+⠀⠀⠀⠀⠀└📁Skills
+⠀⠀⠀⠀⠀⠀└⚠️This folder is empty
+⠀⠀⠀⠀⠀└📁 Aim
+⠀⠀⠀⠀⠀⠀└⚠️This folder is empty
+      └📁 Trash Talk
+⠀⠀⠀⠀⠀⠀└✅ EZ.exe
+       └✅ GG_getgud.exe
+       └✅ **********.exe
+       
+📁 External Hard Drive (E:)
+  └📁 Secrets of A Great Developer
+    └⠀✅ StackOverflow.exe
+    └⠀✅ Gemini.config
+    └⠀✅ Claude.lib
+    └⠀✅ Ctrl_C.dll
+    └⠀✅ Ctrl_V.dll
+  └📁CS2 Cheats
+    └⠀✅AimBot.exe
+    └⠀✅BhopScript.exe
+    └⠀✅Aimlock.exe
+    └⠀✅TriggerBot.exe
+    └⠀✅Wallhack.exe
+</pre>

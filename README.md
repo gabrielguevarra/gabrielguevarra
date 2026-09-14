@@ -8,13 +8,19 @@
 ⠀⠀└⠀🔗 <a href="[https://www.freecodecamp.org/certification/gabrielguevarra/responsive-web-design-v9](https://www.freecodecamp.org/certification/gabrielguevarra/responsive-web-design-v9)">Responsive Web Design</a>
 ⠀⠀└⠀🔗 <a href="[https://www.freecodecamp.org/certification/gabrielguevarra/javascript-v9](https://www.freecodecamp.org/certification/gabrielguevarra/javascript-v9)">JavaScript</a>
 ⠀└📁 Projects
-⠀⠀└⚠️ This folder is empty (to follow hehe)
+⠀⠀└ Bank Management Program v.1
+⠀⠀└ Customer Complaint Form v.1
+⠀⠀└ Voting System v.1
+⠀⠀└ Weather App v.1
 
 📁 Local Disk (D:)
 └📁 Status
 ⠀└📁 Currently_Learning
-⠀⠀└⠀✅ React.js
 ⠀⠀└⠀✅ Python
+⠀⠀└📁 Front-End Libraries and Frameworks
+⠀⠀  └⠀✅ Tailwind CSS
+⠀⠀  └⠀✅ TypeScript
+⠀⠀  └⠀✅ React.js
 └📁 Dev_Skills
 ⠀└📁 Centering_A_Div
 ⠀⠀└⚠️ This folder is empty

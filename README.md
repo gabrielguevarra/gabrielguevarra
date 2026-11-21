@@ -7,10 +7,12 @@
 ⠀└📁 Certifications
 ⠀⠀└⠀🔗 <a href="[https://www.freecodecamp.org/certification/gabrielguevarra/responsive-web-design-v9](https://www.freecodecamp.org/certification/gabrielguevarra/responsive-web-design-v9)">Responsive Web Design</a>
 ⠀⠀└⠀🔗 <a href="[https://www.freecodecamp.org/certification/gabrielguevarra/javascript-v9](https://www.freecodecamp.org/certification/gabrielguevarra/javascript-v9)">JavaScript</a>
-⠀⠀└⠀🔗 <a href="[https://www.freecodecamp.org/certification/gabrielguevarra/front-end-development-libraries-v9](https://www.freecodecamp.org/certification/gabrielguevarra/front-end-development-libraries-v9)">Front-End Development Libraries</a>
+⠀⠀└⠀🔗 <a href="[https://www.freecodecamp.org/certification/gabrielguevarra/front-end-development-libraries-v9](https://www.freecodecamp.org/certification/gabrielguevarra/front-end-development-libraries-v9)">Front-End Development 
+Libraries</a>
 ⠀⠀  └⠀✅ Tailwind CSS
 ⠀⠀  └⠀✅ TypeScript
 ⠀⠀  └⠀✅ React.js
+⠀⠀└⠀🔗 <a href="[https://www.freecodecamp.org/certification/gabrielguevarra/python-v9](https://www.freecodecamp.org/certification/gabrielguevarra/python-v9)">Python</a>
 ⠀└📁 Projects
 ⠀⠀└ Bank Management Program v.1
 ⠀⠀└ Customer Complaint Form v.1
@@ -20,7 +22,13 @@
 📁 Local Disk (D:)
 └📁 Status
 ⠀└📁 Currently_Learning
-⠀⠀└⠀✅ Python
+⠀⠀└⠀✅ Relational Database
+     └⠀✅ Bash
+     └⠀✅ SQL and PostgreSQL
+     └⠀✅ Git
+⠀⠀└⠀✅ Back-end Development and APIs
+     └⠀✅ Node.js
+     └⠀✅ Express.js
 └📁 Dev_Skills
 ⠀└📁 Centering_A_Div
 ⠀⠀└⚠️ This folder is empty
